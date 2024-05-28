@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="./profile.jpg"  />
+  <img height="150" src="./shadowme.jpeg"  />
 </div>
 
 ###
@@ -11,10 +11,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kushal1o1&"  />
-</div>
 
 ###
 
