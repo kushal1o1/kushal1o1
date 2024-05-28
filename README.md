@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" style="border-radius:50%" src="./shadowMe.jpeg"  />
+  <img height="200" style="border-radius:50" src="./shadowMe.jpeg"  />
 </div>
 
 ###
@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 
 
