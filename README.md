@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" style="border-radius:50" src="./shadowMe.png"  />
+  <img height="200" src="./shadowMe.png"  />
 </div>
 
 ###
