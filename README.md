@@ -1,5 +1,4 @@
 <img align="right" src="https://visitcount.itsvg.in/api?id=kushal1o1&icon=5&color=1&pretty=true" />
-<img align="right" src="https://visitcount.itsvg.in/api?id=kushal1o1&label=Profile%20Views&icon=5&pretty=true" />
 
 <br/>
 <br />
