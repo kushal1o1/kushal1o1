@@ -45,7 +45,7 @@ and I enjoy building and improving my skills through  personal and collaborative
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,django,typescript,java,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=docker,react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
 
 </div>
 
