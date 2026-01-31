@@ -44,8 +44,8 @@ and I enjoy building and improving my skills through  personal and collaborative
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,django,java,mysql,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,react,bootstrap,html,css,vscode,github,figma,tailwind,git,notion" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,postgres,mysql,mongodb,redis" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,fastapi,django,nodejs,typescript,react,vscode,github,tailwind,git" />
 
 </div>
 
